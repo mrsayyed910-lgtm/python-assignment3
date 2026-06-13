@@ -4,7 +4,7 @@ class Student:
         self.age = age
         self.course = course
 
-s1 = Student("Pradhyumn", 20, "Data Science")
+s1 = Student("saad sayyed", 19, "Data Science")
 
 print("Name:", s1.name)
 print("Age:", s1.age)

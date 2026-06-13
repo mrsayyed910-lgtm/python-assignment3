@@ -8,7 +8,7 @@ class Student(Person):
         super()._init_(name, age)
         self.roll_number = roll_number
 
-s = Student("Pradhyumn", 20, 101)
+s = Student("saad sayyed", 19, 32)
 
 print("Name:", s.name)
 print("Age:", s.age)
